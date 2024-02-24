@@ -12,7 +12,7 @@ body {
 header {
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(EtoshaPark.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(joli.jpg);
     background-size: cover;
     background-position: center;
     position: relative;
@@ -38,7 +38,7 @@ header nav ul li {
 
 header nav ul li a {
     text-decoration: none;
-    color: #fff;
+    color: #000000;
 }
 
 .title {
@@ -47,9 +47,9 @@ header nav ul li a {
     left: 50%;
     transform: translate(-50%, -50%);
     font-size: 160px;
-    -webkit-text-stroke: 1px #fff;
+    -webkit-text-stroke: 1px #000000;
     color: transparent;
-    background-image: linear-gradient(#fff, #fff);
+    background-image: linear-gradient(#000000, #000000);
     background-repeat: no-repeat;
     -webkit-background-clip: text;
     background-position: -750px 0;
